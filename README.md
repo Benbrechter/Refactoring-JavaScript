@@ -10,7 +10,7 @@ window.prompt, window.alert, and window.confirm to allow the user to choose the 
 I was given the HTML, and CSS layout to start. I had to write the JavaScript code to meet the requirements of the project.
 
 # Link to the project 
-
+https://benbrechter.github.io/Refactoring-JavaScript/ 
 
 
 
